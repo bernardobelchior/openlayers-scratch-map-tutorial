@@ -8,5 +8,6 @@ Note: the `start` branch contains the project initial setup for you to follow th
 ## Running
 
 ```bash
+npm install
 npm start
 ```
